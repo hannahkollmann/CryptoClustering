@@ -2,7 +2,7 @@
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
-## Steps
+## Instructions
 1. Prepare the Data.
 2. Find the Best Value for k Using the Original Scaled DataFrame
 3. Cluster Cryptocurrencies with K-means Using the Original Scaled Data.
